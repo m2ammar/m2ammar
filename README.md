@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 
-🎓 2nd Year BSCS Data Science Student | Karachi School of Business & Leadership
-💻 Java | SQL | HTML | CSS | JavaScript | Basic Web Development
-📈 Passionate about turning data into insights and building real-world projects
+🎓 2nd Year BSCS Data Science Student | Karachi School of Business & Leadership  
+💻 Java | SQL | HTML | CSS | JavaScript | Basic Web Development  
+📈 Passionate about turning data into insights and building real-world projects  
 🌱 Currently exploring Data Visualization
 
 ---
@@ -40,6 +40,3 @@
 - 💡 Always curious, always building.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=tokyonight)
