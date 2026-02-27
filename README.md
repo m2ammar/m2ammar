@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 
-🎓 2nd Year BSCS Data Science Student | Karachi School of Business & Leadership  
+🎓 2nd Semester BSCS Data Science Student | Karachi School of Business & Leadership  
 💻 Java | SQL | HTML | CSS | JavaScript | Basic Web Development  
 📈 Passionate about turning data into insights and building real-world projects  
 🌱 Currently exploring Data Visualization
