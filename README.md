@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 
 🎓 2nd Semester BSCS Data Science Student | Karachi School of Business & Leadership  
-💻 Java | SQL | HTML | CSS | JavaScript | Basic Web Development  
+💻 Java | SQL | Data Analysis | Tableau  
 📈 Passionate about turning data into insights and building real-world projects  
 🌱 Currently learning Tableau for Data Visualization
 
@@ -19,6 +19,7 @@
 
 1. **Java Portfolio** – A collection of Java projects including Student Grading System, Expense Tracker, and Inventory & Stock Management System.
 2. **Vehicle Rental System** – JavaFX project demonstrating OOP concepts and basic file handling.
+3. **SQL Portfolio** – 5 database projects including Food Delivery, E-Commerce, College, Organisation, and Bank databases. Designed schemas, wrote queries, and managed relational data.
 
 > More projects in my repositories!
 
@@ -27,7 +28,7 @@
 ##  Skills
 
 - **Programming:** Java, SQL, JavaScript, HTML/CSS
-- **Data Skills:** Data analysis using Excel, SQL, and Python basics
+- **Data Skills:** Data analysis using Excel, SQL
 - **Concepts:** OOP (Encapsulation, Inheritance, Polymorphism), File Handling
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, MySQL, Tableau Public
 
