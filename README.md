@@ -3,7 +3,7 @@
 🎓 2nd Semester BSCS Data Science Student | Karachi School of Business & Leadership  
 💻 Java | SQL | HTML | CSS | JavaScript | Basic Web Development  
 📈 Passionate about turning data into insights and building real-world projects  
-🌱 Currently exploring Data Visualization
+🌱 Currently learning Tableau for Data Visualization
 
 ---
 
@@ -11,6 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/m2ammar)
+[![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau)](https://public.tableau.com/app/profile/muhammad.ammar.saleem)
 
 ---
 
@@ -28,7 +29,7 @@
 - **Programming:** Java, SQL, JavaScript, HTML/CSS
 - **Data Skills:** Data analysis using Excel, SQL, and Python basics
 - **Concepts:** OOP (Encapsulation, Inheritance, Polymorphism), File Handling
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, MySQL
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, MySQL, Tableau Public
 
 ---
 
