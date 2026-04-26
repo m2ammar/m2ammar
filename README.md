@@ -1,9 +1,8 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 
-🎓 2nd Semester BSCS Data Science Student | Karachi School of Business & Leadership  
-💻 Java | SQL | Data Analysis | Tableau  
-📈 Passionate about turning data into insights and building real-world projects  
-🌱 Currently learning Tableau for Data Visualization
+🎓 2nd Semester BSCS Data Science Student | Karachi School of Business & Leadership
+💻 SQL | Tableau | Excel | Java
+📈 Passionate about turning data into insights and building real-world projects
 
 ---
 
@@ -15,30 +14,30 @@
 
 ---
 
-##  Highlighted Projects
+## Highlighted Projects
 
-1. **Java Portfolio** – A collection of Java projects including Student Grading System, Expense Tracker, and Inventory & Stock Management System.
-2. **Vehicle Rental System** – JavaFX project demonstrating OOP concepts and basic file handling.
-3. **SQL Portfolio** – 5 database projects including Food Delivery, E-Commerce, College, Organisation, and Bank databases. Designed schemas, wrote queries, and managed relational data.
+1. **Pakistan Textile Export Analysis** – End-to-end data project on Pakistan's textile industry. Cleaned and transformed raw data using SQL, then built an interactive dashboard in Tableau Public to visualize export trends and causes of revenue decline. [View Dashboard →](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/Pakistanstextilegrowthandcausesoflessrevenue/Pakistanstextilegrowthandcausesoflessrevenue)
+
+2. **SQL Portfolio** – 5 real-world database projects including a Karachi-themed Food Delivery system, E-Commerce, Bank, College, and Organisation databases. Designed schemas, wrote complex queries, joins, aggregates, and subqueries.
+
+3. **Java Portfolio** – 18+ projects including Student Grading System, Expense Tracker, Inventory Management, and Vehicle Rental System — demonstrating OOP, JavaFX GUI, and MVC architecture.
 
 > More projects in my repositories!
 
 ---
 
-##  Skills
+## Skills
 
-- **Programming:** Java, SQL, JavaScript, HTML/CSS
-- **Data Skills:** Data analysis using Excel, SQL
-- **Concepts:** OOP (Encapsulation, Inheritance, Polymorphism), File Handling
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, MySQL, Tableau Public
+- **Data:** SQL, Tableau, Excel, Data Analysis
+- **Programming:** Java, JavaScript, HTML/CSS
+- **Concepts:** OOP (Encapsulation, Inheritance, Polymorphism), Relational Database Design
+- **Tools:** MySQL, Tableau Public, Git, GitHub, VS Code, IntelliJ IDEA
 
 ---
 
-##  About Me
+## About Me
 
-- 🧩 I enjoy solving coding challenges and building projects independently.
-- 📚 Actively learning and improving my programming and Data Science skills.
-- 🤝 Open to collaboration and freelance opportunities in Java and Data Analysis.
+- 📊 I build data projects end-to-end — from raw data to clean SQL to Tableau dashboards.
+- 🧩 I enjoy solving real problems with real datasets independently.
+- 🤝 Open to internship opportunities in Data Analytics or Business Intelligence.
 - 💡 Always curious, always building.
-
----
