@@ -1,7 +1,9 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 
 🎓 2nd Semester BSCS Data Science Student | Karachi School of Business & Leadership
+
 💻 SQL | Tableau | Excel | Java
+
 📈 Passionate about turning data into insights and building real-world projects
 
 ---
@@ -14,7 +16,7 @@
 
 ---
 
-## Highlighted Projects
+## 📂 Highlighted Projects
 
 1. **Pakistan Textile Export Analysis** – End-to-end data project on Pakistan's textile industry. Cleaned and transformed raw data using SQL, then built an interactive dashboard in Tableau Public to visualize export trends and causes of revenue decline. [View Dashboard →](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/Pakistanstextilegrowthandcausesoflessrevenue/Pakistanstextilegrowthandcausesoflessrevenue)
 
@@ -26,7 +28,7 @@
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 - **Data:** SQL, Tableau, Excel, Data Analysis
 - **Programming:** Java, JavaScript, HTML/CSS
@@ -35,7 +37,7 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
 - 📊 I build data projects end-to-end — from raw data to clean SQL to Tableau dashboards.
 - 🧩 I enjoy solving real problems with real datasets independently.
