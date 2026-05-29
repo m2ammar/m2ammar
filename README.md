@@ -1,45 +1,48 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 
-🎓 2nd Semester BSCS Data Science Student | Karachi School of Business & Leadership
-
-💻 SQL | Tableau | Excel | Java
-
-📈 Passionate about turning data into insights and building real-world projects
+🎓 2nd Semester BSCS Data Science Student @ KSBL Karachi
+📍 Turning raw data into decisions — SQL · Tableau · Excel
 
 ---
 
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/m2ammar)
-[![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau)](https://public.tableau.com/app/profile/muhammad.ammar.saleem)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 📂 Highlighted Projects
+## 🗄️ Data Projects
 
-1. **Pakistan Textile Export Analysis** – End-to-end data project on Pakistan's textile industry. Cleaned and transformed raw data using SQL, then built an interactive dashboard in Tableau Public to visualize export trends and causes of revenue decline. [View Dashboard →](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/Pakistanstextilegrowthandcausesoflessrevenue/Pakistanstextilegrowthandcausesoflessrevenue)
+| Project | Stack | Highlights |
+|---|---|---|
+| [Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System) | SQL | 15 tables, multi-JOIN, CTEs, CASE logic |
+| [Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services) | SQL + Tableau | 9 tables, 500 customers, Executive Dashboard |
+| [Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis) | SQL + Tableau | Real PTC/PBS data, export trend analysis |
 
-2. **SQL Portfolio** – 5 real-world database projects including a Karachi-themed Food Delivery system, E-Commerce, Bank, College, and Organisation databases. Designed schemas, wrote complex queries, joins, aggregates, and subqueries.
 
-3. **Java Portfolio** – 18+ projects including Student Grading System, Expense Tracker, Inventory Management, and Vehicle Rental System — demonstrating OOP, JavaFX GUI, and MVC architecture.
+## ☕ Java Projects
 
-> More projects in my repositories!
+| Project | Stack | Highlights |
+|---|---|---|
+| Payroll Management System | Java · JavaFX · OOP | Role-based auth, employee hierarchy, attendance-based salary reports |
+| Student Academic Tracker | Java · JavaFX · MVC | Full MVC architecture, academic record management |
+| + 16 more | Java · OOP | Encapsulation, Inheritance, Polymorphism, GUI apps |
 
 ---
 
 ## 🛠️ Skills
 
-- **Data:** SQL, Tableau, Excel, Data Analysis
-- **Programming:** Java, JavaScript, HTML/CSS
-- **Concepts:** OOP (Encapsulation, Inheritance, Polymorphism), Relational Database Design
-- **Tools:** MySQL, Tableau Public, Git, GitHub, VS Code, IntelliJ IDEA
+**Data** → SQL · Tableau · Excel  
+**Programming** → Java · HTML/CSS  
+**Tools** → MySQL · Git · GitHub · IntelliJ · VS Code
 
 ---
 
-## 👤 About Me
+## 🔗 Connect
 
-- 📊 I build data projects end-to-end — from raw data to clean SQL to Tableau dashboards.
-- 🧩 I enjoy solving real problems with real datasets independently.
-- 🤝 Open to internship opportunities in Data Analytics or Business Intelligence.
-- 💡 Always curious, always building.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
+[![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau)](https://public.tableau.com/app/profile/muhammad.ammar.saleem)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/m2ammar)
+
+---
+
+> 🤝 Open to internship opportunities in Data Analytics & Business Intelligence
