@@ -14,7 +14,7 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System) | SQL | 15 tables, multi-JOIN, CTEs, CASE logic |
+| [Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System) | SQL + Tableau | 19 tables, 197 countries, multi-JOIN, CTEs, CASE logic |
 | [Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services) | SQL + Tableau | 9 tables, 500 customers, Executive Dashboard |
 | [Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis) | SQL + Tableau | Real PTC/PBS data, export trend analysis |
 
@@ -25,7 +25,7 @@
 |---|---|---|
 | Payroll Management System | Java · JavaFX · OOP | Role-based auth, employee hierarchy, attendance-based salary reports |
 | Student Academic Tracker | Java · JavaFX · MVC | Full MVC architecture, academic record management |
-| + 16 more | Java · OOP | Encapsulation, Inheritance, Polymorphism, GUI apps |
+| + 4 more | Java · OOP · JavaFX | Fundamentals to OOP — algorithms, GUI apps, inheritance |
 
 ---
 
