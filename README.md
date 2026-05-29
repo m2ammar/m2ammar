@@ -6,8 +6,7 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=m2ammar&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m2ammar&layout=compact&langs_count=8&hide=html,css)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=transparent)
 
 ---
 
