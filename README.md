@@ -8,6 +8,7 @@
 
 ![GitHub Stats](https://readme-stats-nu-lac.vercel.app/api?username=m2ammar&show_icons=true&hide_border=true)
 ![Top Languages](https://readme-stats-nu-lac.vercel.app/api/top-langs/?username=m2ammar&layout=compact&hide_border=true)
+
 ---
 
 ## 🗄️ Data Projects
