@@ -1,6 +1,7 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 
 🎓 2nd Semester BSCS Data Science Student @ KSBL Karachi
+
 📍 Turning raw data into decisions — SQL · Tableau · Excel
 
 ---
