@@ -45,7 +45,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau)](https://public.tableau.com/app/profile/muhammad.ammar.saleem)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/m2ammar)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=m2ammar&label=Profile%20Views&color=0&icon=0&pretty=false)
+![](https://komarev.com/ghpvc/?username=m2ammar&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
