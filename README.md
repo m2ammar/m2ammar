@@ -5,11 +5,16 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=default&hide_border=true)
+
+---
+
 ## 🗄️ Data Projects
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System) | SQL | 19 tables, 197 countries, multi-JOIN, CTEs, CASE logic |
+| [Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System) | SQL + Tableau | 19 tables, 197 countries, multi-JOIN, CTEs, CASE logic |
 | [Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services) | SQL + Tableau | 9 tables, 500 customers, Executive Dashboard |
 | [Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis) | SQL + Tableau | Real PTC/PBS data, export trend analysis |
 
