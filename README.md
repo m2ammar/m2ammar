@@ -1,12 +1,7 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
-
 🎓 2nd Semester BSCS Data Science Student @ KSBL Karachi
 
 📍 Turning raw data into decisions — SQL · Tableau · Excel
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=m2ammar&hide_border=true)
 
 ---
 
@@ -14,10 +9,9 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System) | SQL + Tableau | 19 tables, 197 countries, multi-JOIN, CTEs, CASE logic |
+| [Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System) | SQL | 19 tables, 197 countries, multi-JOIN, CTEs, CASE logic |
 | [Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services) | SQL + Tableau | 9 tables, 500 customers, Executive Dashboard |
 | [Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis) | SQL + Tableau | Real PTC/PBS data, export trend analysis |
-
 
 ## ☕ Java Projects
 
@@ -25,7 +19,7 @@
 |---|---|---|
 | Payroll Management System | Java · JavaFX · OOP | Role-based auth, employee hierarchy, attendance-based salary reports |
 | Student Academic Tracker | Java · JavaFX · MVC | Full MVC architecture, academic record management |
-| + 4 more | Java · OOP · JavaFX | Fundamentals to OOP — algorithms, GUI apps, inheritance |
+| + 4 more | Java | Ranges from fundamentals to OOP and JavaFX GUI apps |
 
 ---
 
