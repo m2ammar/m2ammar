@@ -6,9 +6,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=default&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&hide_border=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&hide_border=true&count_private=false)
 ---
 
 ## 🗄️ Data Projects
