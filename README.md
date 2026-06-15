@@ -1,8 +1,9 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
-🎓 2nd Semester BSCS Data Science Student @ KSBL Karachi.
+🎓 2nd Semester BSCS Data Science Student @ KSBL Karachi
 
-📍 Built 3 end-to-end SQL databases (19 tables, 197 countries, real govt data) + Tableau dashboards.
-🤝 Open to internship opportunities in Data Analytics & Business Intelligence.
+📍 Built 3 end-to-end SQL databases (19 tables, 197 countries, real govt data) + Tableau dashboard
+
+🤝 Open to internship opportunities in Data Analytics & Business Intelligence
 
 ---
 
