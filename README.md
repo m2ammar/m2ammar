@@ -32,7 +32,9 @@
 
 ## 🛠️ Skills
 **Data** → SQL (Joins · CTEs · Subqueries · CASE Logic) · Tableau · Excel
+
 **Programming** → Java (OOP · JavaFX · MVC) · HTML/CSS
+
 **Tools** → MySQL · Git · GitHub · IntelliJ · VS Code
 
 ---
