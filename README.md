@@ -24,7 +24,7 @@
 |---|---|---|
 | [Payroll Management System](https://github.com/m2ammar/Payroll-Management-System) | Java · JavaFX · OOP | Role-based auth, employee hierarchy, attendance-based salary reports |
 | [Vehicle Rental System](https://github.com/m2ammar/VehicleRentalSystem) | Java · OOP · JavaFX | File handling, rental logic, GUI |
-| [Inventory & Stock Management]([https://github.com/m2ammar/Inventory-Stock-Management](https://github.com/m2ammar/Mini_Apps/blob/main/src/InventoryNStockManagementSystem.java) | Java | Stock tracking, Console-based management system |
+| [Inventory & Stock Management](https://github.com/m2ammar/Mini_Apps/blob/main/src/InventoryNStockManagementSystem.java) | Java | Stock tracking, Cosole-based management system |
 
 ---
 
