@@ -1,8 +1,6 @@
 # Hi, I'm Muhammad Ammar Saleem 👋
 🎓 2nd Semester BSCS Data Science Student @ KSBL Karachi
-
 📍 Built 3 end-to-end SQL databases (19 tables, 197 countries, real govt data) + Tableau dashboards
-
 🤝 Open to internship opportunities in Data Analytics & Business Intelligence
 
 ---
@@ -26,13 +24,15 @@
 |---|---|---|
 | [Payroll Management System](https://github.com/m2ammar/Payroll-Management-System) | Java · JavaFX · OOP | Role-based auth, employee hierarchy, attendance-based salary reports |
 | [Vehicle Rental System](https://github.com/m2ammar/VehicleRentalSystem) | Java · OOP · JavaFX | File handling, rental logic, GUI |
-| [Inventory & Stock Management](https://github.com/m2ammar/Inventory-Stock-Management) | Java · OOP · JavaFX | Stock tracking, GUI-based management system |
+| [Inventory & Stock Management]([https://github.com/m2ammar/Inventory-Stock-Management](https://github.com/m2ammar/Mini_Apps/blob/main/src/InventoryNStockManagementSystem.java) | Java | Stock tracking, Console-based management system |
 
 ---
 
 ## 🛠️ Skills
 **Data** → SQL (Joins · CTEs · Subqueries · CASE Logic) · Tableau · Excel
+
 **Programming** → Java (OOP · JavaFX · MVC) · HTML/CSS
+
 **Tools** → MySQL · Git · GitHub · IntelliJ · VS Code
 
 ---
