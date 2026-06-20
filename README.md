@@ -8,7 +8,7 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=m2ammar&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_total_logs=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m2ammar&theme=tokyonight&hide_total_logs=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=tokyonight&langs_count=6)
 
