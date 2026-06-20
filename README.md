@@ -12,17 +12,17 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=tokyonight&langs_count=6)
 
-[![Ammar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=tokyonight)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Ammar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/m2ammar) 
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/m2ammar) 
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/m2ammar)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/m2ammar)
 
 ---
 
-[![Ammar's Trophies](https://github-profile-trophy.vercel.app/?username=m2ammar&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ammar's Trophies](https://github-profile-trophy.vercel.app/?username=m2ammar&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
