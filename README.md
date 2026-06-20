@@ -46,6 +46,7 @@
 ## 🗄️ Data Engineering & BI Projects
 | Project | Tech Stack | Key Metrics & Implementation Highlights |
 | :--- | :--- | :--- |
+| 🛒 **[PakMart Retail Analysis](https://github.com/m2ammar/PakMart_Retail_Analysis)** | MySQL · Tableau | Engineered a retail enterprise schema (1,000 customers, 7,000 generated transaction rows via Stored Procedures). Applied advanced Window Functions (`LAG()`, `RANK()`, `DENSE_RANK()`) to analyze MoM revenue trends, promotional impacts, and category performance rankings. Connected to a live Tableau dashboard. |
 | 🌍 **[Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System)** | MySQL · Tableau | Built a massive relational database featuring **19 tables** mapping health metrics across **197 countries**. Implemented multi-layered JOINs, CTEs, and advanced window functions. |
 | 🏦 **[Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services)** | MySQL · Tableau | Engineered a core banking schema simulation (9 relational tables, 500+ dynamic customer profiles). Modeled transaction flows and linked data directly to an executive KPI Dashboard on Tableau Public. |
 | 🧵 **[Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis)** | MySQL · Tableau | Processed and audited real trade data from the PTC & Pakistan Bureau of Statistics to visualize macro-export trends and value-add shifts. |
@@ -64,9 +65,9 @@
 - 🏫 **Oct 2025** · Engineered and deployed a standalone console-based **Student Grading System**.
 - 🧮 **Nov 2025** · Expanded algorithmic foundations by designing a modular terminal **Expense Tracker**.
 - 📦 **Dec 2025** · Built an interactive console **Inventory & Stock Management System**, alongside a GUI-driven desktop **Vehicle Rental System** using JavaFX.
-- 📊 **Feb–Mar 2026** · Started learning SQL independently and rapidly scaled into advanced Business Intelligence architectures—mapping **8 relational databases** and launching dynamic KPI dashboards on Tableau Public.
+- 📊 **Feb–Mar 2026** · Started learning SQL independently and rapidly scaled into advanced Business Intelligence architectures—mapping **8 relational databases** (including a massive 19-table **Global Healthcare System**) and launching dynamic KPI dashboards on Tableau Public.
 - 🖥️ **Recent** · Packaged an MVC-structured desktop ecosystem, distributing an installation-ready (`.dmg`) file for a JavaFX **Payroll Management System**.
-- ⚡ **Current Focus** · Implementing **Advanced Window Functions** (`PARTITION BY`, `ROW_NUMBER()`, `RANK()`) to construct high-performance transactional analytics across the 19-table **Global Healthcare System**.
+- ⚡ **Current Focus** · Leveraging MySQL Stored Procedures and implementing advanced Analytical Window Functions (`PARTITION BY`, `LAG()`, `DENSE_RANK()`) to execute deep market analytics for the **PakMart Retail Analysis** system.
 
 ---
 
