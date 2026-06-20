@@ -60,7 +60,9 @@
 ---
 
 ## 🏆 Achievements & Milestones
-[![Ammar's Trophies](https://github-profile-trophy.vercel.app/?username=m2ammar&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <img src="https://github-profile-achievements.vercel.app/?username=m2ammar&theme=tokyonight" alt="Ammar's Achievements" width="400" />
+</p>
 
 ---
 
