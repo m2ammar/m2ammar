@@ -60,10 +60,12 @@
 ---
 
 ## 🏆 Milestones & Achievements
-- 🚀 **September 2025** · Launched programming journey and committed first repository to GitHub.
-- 🗄️ **Production Databases** · Engineered 3 end-to-end relational schemas utilizing complex SQL constraints.
-- 📊 **BI Deployment** · Developed and published an interactive Executive Performance Dashboard on Tableau Public.
-- 💻 **Software Systems** · Designed and implemented an MVC-architecture Payroll Management System in Java.
+- 🚀 **Sep 2025** · Launched programming journey and committed first repository to GitHub.
+- 🏫 **Oct 2025** · Engineered and deployed a standalone **Student Grading System** app.
+- 🛠️ **Nov–Dec 2025** · Scaled repository foundations with automated relational bank models, multi-table E-Commerce schemas, and nested organizational subqueries.
+- 📊 **Feb–Mar 2026** · Advanced into massive Business Intelligence builds, architecture-mapping **8 relational databases** and pushing dynamic analytical dashboards to Tableau Public.
+- 🖥️ **Recent** · Packaged an MVC-structured desktop ecosystem, distributing an installation-ready (`.dmg`) file for a JavaFX **Payroll Management System**.
+- ⚡ **Current Focus** · Implementing **Advanced Window Functions** (`PARTITION BY`, `ROW_NUMBER()`, `RANK()`) to construct high-performance transactional analytics across the 19-table **Global Healthcare System**.
 
  
 ---
