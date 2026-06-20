@@ -59,11 +59,9 @@
 
 ---
 
-## 🏆 Achievements & Milestones
 <p align="left">
   <img src="https://github-profile-achievements.vercel.app/?username=m2ammar&theme=tokyonight" alt="Ammar's Achievements" width="400" />
 </p>
-
 ---
 
 ## 🔗 Let's Connect & Collaborate
