@@ -14,9 +14,13 @@
 
 [![Ammar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=tokyonight)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+---
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/m2ammar) 
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/m2ammar) 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/m2ammar)
+
+---
 
 [![Ammar's Trophies](https://github-profile-trophy.vercel.app/?username=m2ammar&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
