@@ -8,6 +8,7 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=m2ammar&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=tokyonight&langs_count=6)
 
