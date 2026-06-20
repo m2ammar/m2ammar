@@ -59,9 +59,13 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-profile-achievements.vercel.app/?username=m2ammar&theme=tokyonight" alt="Ammar's Achievements" width="400" />
-</p>
+## 🏆 Milestones & Achievements
+- 🚀 **September 2025** · Launched programming journey and committed first repository to GitHub.
+- 🗄️ **Production Databases** · Engineered 3 end-to-end relational schemas utilizing complex SQL constraints.
+- 📊 **BI Deployment** · Developed and published an interactive Executive Performance Dashboard on Tableau Public.
+- 💻 **Software Systems** · Designed and implemented an MVC-architecture Payroll Management System in Java.
+
+ 
 ---
 
 ## 🔗 Let's Connect & Collaborate
