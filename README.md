@@ -47,7 +47,7 @@
 | Project | Tech Stack | Key Metrics & Implementation Highlights |
 | :--- | :--- | :--- |
 | 🛒 **[PakMart Retail Analysis](https://github.com/m2ammar/PakMart_Retail_Analysis)** | MySQL · Tableau | Engineered a retail enterprise schema (1,000 customers, 7,000 generated transaction rows via Stored Procedures). Applied advanced Window Functions (`LAG()`, `RANK()`, `DENSE_RANK()`) to analyze MoM revenue trends, promotional impacts, and category performance rankings. Connected to a live Tableau dashboard. |
-| 🌍 **[Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System)** | MySQL · Tableau | Built a massive relational database featuring **19 tables** mapping health metrics across **197 countries**. Implemented multi-layered JOINs, CTEs, and advanced window functions. |
+| 🌍 **[Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System)** | MySQL · Tableau | Built a massive relational database featuring **19 tables** mapping health metrics across **197 countries**. Implemented multi-layered JOINs, CTEs |
 | 🏦 **[Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services)** | MySQL · Tableau | Engineered a core banking schema simulation (9 relational tables, 500+ dynamic customer profiles). Modeled transaction flows and linked data directly to an executive KPI Dashboard on Tableau Public. |
 | 🧵 **[Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis)** | MySQL · Tableau | Processed and audited real trade data from the PTC & Pakistan Bureau of Statistics to visualize macro-export trends and value-add shifts. |
 
