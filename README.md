@@ -46,14 +46,14 @@
 ## 🗄️ Data Engineering & BI Projects
 | Project | Tech Stack | Key Metrics & Implementation Highlights |
 | :--- | :--- | :--- |
-| 🌍 **[Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System)** | MySQL · Tableau | Built a massive relational database featuring **19 tables** mapping health metrics across **197 countries**. Implemented multi-layered JOINs, CTEs, and advanced relational constraints. |
+| 🌍 **[Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System)** | MySQL · Tableau | Built a massive relational database featuring **19 tables** mapping health metrics across **197 countries**. Implemented multi-layered JOINs, CTEs, and advanced window functions. |
 | 🏦 **[Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services)** | MySQL · Tableau | Engineered a core banking schema simulation (9 relational tables, 500+ dynamic customer profiles). Modeled transaction flows and linked data directly to an executive KPI Dashboard on Tableau Public. |
 | 🧵 **[Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis)** | MySQL · Tableau | Processed and audited real trade data from the PTC & Pakistan Bureau of Statistics to visualize macro-export trends and value-add shifts. |
 
 ## ☕ Java & Software Engineering
 | Project | Architecture | Structural Highlights |
 | :--- | :--- | :--- |
-| 💳 **[Payroll Management System](https://github.com/m2ammar/Payroll-Management-System)** | Java · JavaFX · OOP | Built using strict MVC patterns. Features robust employee inheritance hierarchies, role-based authentication layers, and dynamic automated attendance-to-salary reports. |
+| 💳 **[Payroll Management System](https://github.com/m2ammar/Payroll-Management-System)** | Java · JavaFX · OOP | Built using strict MVC patterns. Features robust employee inheritance hierarchies, role-based authentication layers, and dynamic automated attendance-to-salary reports. Packaged as an installable `.dmg` desktop ecosystem. |
 | 🚗 **[Vehicle Rental System](https://github.com/m2ammar/VehicleRentalSystem)** | Java · Object-Oriented Design | Created a desktop application utilizing secure local file-handling mechanisms, polymorphic rental logic rules, and an intuitive custom GUI. |
 | 📦 **[Inventory & Stock Management](https://github.com/m2ammar/Mini_Apps/blob/main/src/InventoryNStockManagementSystem.java)** | Pure Java | Lightweight, console-based application tracking real-time stock levels, SKU counts, and catalog thresholds. |
 
@@ -67,7 +67,6 @@
 - 🖥️ **Recent** · Packaged an MVC-structured desktop ecosystem, distributing an installation-ready (`.dmg`) file for a JavaFX **Payroll Management System**.
 - ⚡ **Current Focus** · Implementing **Advanced Window Functions** (`PARTITION BY`, `ROW_NUMBER()`, `RANK()`) to construct high-performance transactional analytics across the 19-table **Global Healthcare System**.
 
- 
 ---
 
 ## 🔗 Let's Connect & Collaborate
