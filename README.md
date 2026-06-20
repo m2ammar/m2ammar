@@ -36,10 +36,10 @@
 ---
 
 ### 🧰 Core Tech Stack
-*Click on a badge to jump directly to that section of my portfolio:*
+*Click on a badge to view my specialized project portfolios:*
 
-[![Java](https://img.shields.io/badge/Java-3A4D6B?style=for-the-badge&logo=openjdk&logoColor=DFE6F1)](#-java--software-engineering) 
-[![MySQL](https://img.shields.io/badge/MySQL-2C5266?style=for-the-badge&logo=mysql&logoColor=DFE6F1)](#-data-engineering--bi-projects)
+[![Java](https://img.shields.io/badge/Java-3A4D6B?style=for-the-badge&logo=openjdk&logoColor=DFE6F1)](https://github.com/m2ammar/Java-Portfolio) 
+[![MySQL](https://img.shields.io/badge/MySQL-2C5266?style=for-the-badge&logo=mysql&logoColor=DFE6F1)](https://github.com/m2ammar/SQL-Portfolio)
 
 ---
 
