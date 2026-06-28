@@ -1,84 +1,238 @@
-# Hi, I'm Muhammad Ammar Saleem 👋
-🎓 **BSCS Data Science Student (2nd Semester)** @ KSBL Karachi  
-📊 **Aspiring Data Analyst & BI Engineer** | Self-Taught Programmer  
-🎯 *Focused on building robust backend databases and translating complex data into executive-level visual stories.*
+<div align="center">
 
-### 🛠️ Featured Competencies
-**Data Analytics** ➔ SQL (Complex JOINs · CTEs · Window Functions · CASE Logic) · Tableau Public · Excel  
-**Software Development** ➔ Java (OOP Principles · JavaFX · GUI · File I/O) · Data Structures  
-**Core Tools** ➔ MySQL · Git · GitHub · IntelliJ IDEA · VS Code
+<br/>
 
-🤝 **Open to internship opportunities in Data Analytics, Business Intelligence, & Data Engineering.**
+![header](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=200&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descAlignY=58&descSize=16)
+
+</div>
 
 ---
 
-### 📊 GitHub Dashboard
+<div align="center">
+
+```
+> Initializing profile...
+> Loading systems...
+> Access granted.
+```
+
+</div>
+
+---
+
+## 👤 Hey There, I'm Ammar
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m2ammar&show_icons=true&theme=tokyonight" alt="Ammar's GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=m2ammar&theme=tokyonight&hide_total_logs=true&starting_year=2025" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=github-compact" alt="Activity Graph" />
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+A **Data Analyst & BI Developer** based in Karachi, Pakistan.  
+I build databases, dashboards, and data stories that reflect real-world business problems — not just tutorial copies.
+
+Currently in my 2nd year of **BSCS Data Science** at KSBL, building my path toward advanced data science one project at a time.
+
+**What I do:**
+- Design and analyze SQL databases with real Pakistani business context
+- Build Tableau dashboards that turn data into decisions
+- Train and evaluate AI/LLM systems
+- Document everything I learn
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🧰 Core Tech Stack
-*Click on a badge to view my specialized project portfolios:*
+<div align="center">
 
-[![Java](https://img.shields.io/badge/Java-3A4D6B?style=for-the-badge&logo=openjdk&logoColor=DFE6F1)](https://github.com/m2ammar/Java-Portfolio) 
-[![MySQL](https://img.shields.io/badge/MySQL-2C5266?style=for-the-badge&logo=mysql&logoColor=DFE6F1)](https://github.com/m2ammar/SQL-Portfolio)
+## ⬡ SYSTEM ACCESS
+`entry points • project portals • data infrastructure`
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="33%" style="border: 1px solid #D4A017; border-radius: 10px; padding: 20px;">
+
+### 🗄️ DATA FORGE
+**SQL & Database Projects**
+
+Pakistani business simulations  
+Advanced SQL • CTEs • Window Functions
+
+`SQL` `MySQL` `Tableau`
+
+[ENTER →](https://github.com/m2ammar?tab=repositories&q=&type=&language=&sort=)
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 BI STUDIO
+**Business Intelligence & Dashboards**
+
+Executive dashboards • KPI tracking  
+Data storytelling through visuals
+
+`Tableau` `Data Analysis` `Visualization`
+
+[ENTER →](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 CODE BASE
+**Java & Python Projects**
+
+OOP systems • Desktop applications  
+Clean architecture • MVC pattern
+
+`Java` `JavaFX` `Python`
+
+[ENTER →](https://github.com/m2ammar?tab=repositories&q=&type=&language=java&sort=)
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🗄️ Data Engineering & BI Projects
-| Project | Tech Stack | Key Metrics & Implementation Highlights |
-| :--- | :--- | :--- |
-| 🛒 **[PakMart Retail Analysis](https://github.com/m2ammar/PakMart_Retail_Analysis)** | MySQL · Tableau | Engineered a retail enterprise schema (1,000 customers, 7,000 generated transaction rows via Stored Procedures). Applied advanced Window Functions (`LAG()`, `RANK()`, `DENSE_RANK()`) to analyze MoM revenue trends, promotional impacts, and category performance rankings. Connected to a live Tableau dashboard. |
-| 🌍 **[Global Healthcare System](https://github.com/m2ammar/Global-Healthcare-System)** | MySQL · Tableau | Built a massive relational database featuring **19 tables** mapping health metrics across **197 countries**. Implemented multi-layered JOINs, CTEs |
-| 🏦 **[Pakistan Financial Services](https://github.com/m2ammar/Pakistan-Financial-Services)** | MySQL · Tableau | Engineered a core banking schema simulation (9 relational tables, 500+ dynamic customer profiles). Modeled transaction flows and linked data directly to an executive KPI Dashboard on Tableau Public. |
-| 🧵 **[Pakistan Textile Export Analysis](https://github.com/m2ammar/Pakistan-textile-export-analysis)** | MySQL · Tableau | Processed and audited real trade data from the PTC & Pakistan Bureau of Statistics to visualize macro-export trends and value-add shifts. |
+<div align="center">
 
-## ☕ Java & Software Engineering
-| Project | Architecture | Structural Highlights |
-| :--- | :--- | :--- |
-| 💳 **[Payroll Management System](https://github.com/m2ammar/Payroll-Management-System)** | Java · JavaFX · OOP | Built using strict MVC patterns. Features robust employee inheritance hierarchies, role-based authentication layers, and dynamic automated attendance-to-salary reports. Packaged as an installable `.dmg` desktop ecosystem. |
-| 🚗 **[Vehicle Rental System](https://github.com/m2ammar/VehicleRentalSystem)** | Java · JavaFX | Developed a desktop interface featuring automated rental duration calculation, multi-view navigation, input validations, and file-handling workflows. |
-| 📦 **[Inventory & Stock Management](https://github.com/m2ammar/Mini_Apps/blob/main/src/InventoryNStockManagementSystem.java)** | Pure Java | Lightweight, console-based application tracking real-time stock levels, SKU counts, and catalog thresholds. |
+## ⚙️ SYSTEM CORE
+`principles • interests • philosophy`
+
+<br/>
+
+<table>
+<tr>
+
+<td width="33%" align="left">
+
+### 🔨 BUILD
+- SQL Databases & Dashboards
+- Pakistani business contexts
+- Clean, documented code
+- Real data, real structure
+
+</td>
+
+<td width="33%" align="left">
+
+### 🎯 INTERESTS
+- Data Science & Analytics
+- Business Intelligence
+- Curious problem solver
+- Data-driven storytelling
+
+</td>
+
+<td width="33%" align="left">
+
+### 💡 PHILOSOPHY
+- Learn by building, not watching
+- Real problems over practice problems
+- Every project tells a story
+- Document the journey
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🏆 Milestones & Achievements
-- 🚀 **Sep 2025** · Launched programming journey and committed first repository to GitHub.
-- 🏫 **Oct 2025** · Engineered and deployed a standalone console-based **Student Grading System**.
-- 🧮 **Nov 2025** · Expanded algorithmic foundations by designing a modular terminal **Expense Tracker**.
-- 📦 **Dec 2025** · Built an interactive console **Inventory & Stock Management System**, alongside a GUI-driven desktop **Vehicle Rental System** using JavaFX.
-- 📊 **Feb–Mar 2026** · Started learning SQL independently and rapidly scaled into advanced Business Intelligence architectures—mapping **8 relational databases** (including a massive 19-table **Global Healthcare System**) and launching dynamic KPI dashboards on Tableau Public.
-- 🖥️ **Recent** · Packaged an MVC-structured desktop ecosystem, distributing an installation-ready (`.dmg`) file for a JavaFX **Payroll Management System**.
-- ⚡ **Current Focus** · Leveraging MySQL Stored Procedures and implementing advanced Analytical Window Functions (`PARTITION BY`, `LAG()`, `DENSE_RANK()`) to execute deep market analytics for the **PakMart Retail Analysis** system.
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-D4A017?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-D4A017?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-D4A017?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D4A017?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-D4A017?style=for-the-badge&logo=openjdk&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-D4A017?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D4A017?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-D4A017?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-D4A017?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-D4A017?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
 
 ---
 
-## 🔗 Let's Connect & Collaborate
-Feel free to reach out for project collaborations, data discussions, or technical opportunities!
+## 🧭 Domains
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/) 
-[![Tableau Profile](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/muhammad.ammar.saleem) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m2ammar)
+<div align="center">
+
+| Domain | Tools | Level |
+|--------|-------|-------|
+| SQL & Databases | MySQL, Joins, CTEs, Window Functions | Intermediate → Advanced |
+| Business Intelligence | Tableau, KPI Design, Dashboards | Intermediate |
+| Programming | Java, OOP, JavaFX | Intermediate |
+| Python | Variables, OOP, File I/O | Learning |
+
+</div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m2ammar&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
+## 📈 Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=m2ammar&theme=dark&background=0D1117&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&sideLabels=D4A017&dates=888888)](https://git.io/streak-stats)
+
+<br/>
+
+[![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=dark&bg_color=0D1117&title_color=D4A017&icon_color=D4A017&text_color=ffffff&border_color=D4A017)](https://github.com/m2ammar)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=D4A017&text_color=ffffff&border_color=D4A017)](https://github.com/m2ammar)
+
+</div>
+
+---
+
+## 🤝 Collaboration
+
+I'm open to collaborating on:
+
+- SQL database design projects
+- Tableau dashboard builds
+- Data analysis with Pakistani business context
+- LLM evaluation and training tasks
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=github&logoColor=white)](https://m2ammar.github.io/ammar-s_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ammar-saleem-50a60b2b5/)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-D4A017?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
+[![Email](https://img.shields.io/badge/Email-D4A017?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma9731501@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-D4A017?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m__ammar11)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=100&section=footer)
+
+</div>
