@@ -9,16 +9,6 @@
 
 </div>
 
-<div align="center">
-
-```
-> Initializing profile...
-> Loading systems...
-> Access granted.
-```
-
-</div>
-
 ---
 
 <div align="center">
