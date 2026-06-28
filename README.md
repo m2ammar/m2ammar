@@ -2,7 +2,7 @@
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=200&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descAlignY=58&descSize=16)
+![header](assets/header.svg)
 
 </div>
 
