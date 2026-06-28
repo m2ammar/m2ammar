@@ -1,14 +1,17 @@
 <div align="center">
 
-<!-- 1. CAPSULE RENDER ADJUSTED TO MINIMALIST DARK RECTANGLE -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=42&fontColor=00ffd5&desc=Data%20Analyst%20•%20BI%20Developer%20•%20LLM%20Trainer&descSize=14&descAlignY=65&descColor=9ca3af)
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%"/>
 
 </div>
 
-<!-- 2. CYBERPUNK LINE DIVIDER -->
-<img src="https://raw.githubusercontent.com/HiradEmami/HiradEmami/main/assets/lines/aqua-purple-line.gif" width="100%">
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=42&fontColor=00ffd5&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descSize=14&descAlignY=65&descColor=9ca3af)
+
+</div>
 
 <div align="center">
+
 ```
 > Initializing profile...
 > Loading systems...
@@ -57,7 +60,7 @@ Currently in my 2nd year of **BSCS Data Science** at KSBL, building my path towa
 <table>
 <tr>
 
-<td align="center" width="33%" style="border: 1px solid #D4A017; border-radius: 10px; padding: 20px;">
+<td align="center" width="33%">
 
 ### 🗄️ DATA FORGE
 **SQL & Database Projects**
@@ -157,16 +160,16 @@ Clean architecture • MVC pattern
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-D4A017?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-D4A017?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-D4A017?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-D4A017?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-D4A017?style=for-the-badge&logo=openjdk&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-D4A017?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D4A017?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-D4A017?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-D4A017?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-D4A017?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00ffd5?style=for-the-badge&logo=mysql&logoColor=0D1117)
+![Tableau](https://img.shields.io/badge/Tableau-00ffd5?style=for-the-badge&logo=tableau&logoColor=0D1117)
+![Python](https://img.shields.io/badge/Python-00ffd5?style=for-the-badge&logo=python&logoColor=0D1117)
+![Java](https://img.shields.io/badge/Java-00ffd5?style=for-the-badge&logo=openjdk&logoColor=0D1117)
+![JavaFX](https://img.shields.io/badge/JavaFX-00ffd5?style=for-the-badge&logo=openjdk&logoColor=0D1117)
+![Excel](https://img.shields.io/badge/Excel-00ffd5?style=for-the-badge&logo=microsoft-excel&logoColor=0D1117)
+![Git](https://img.shields.io/badge/Git-00ffd5?style=for-the-badge&logo=git&logoColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-00ffd5?style=for-the-badge&logo=github&logoColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-00ffd5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-00ffd5?style=for-the-badge&logo=intellij-idea&logoColor=0D1117)
 
 </div>
 
@@ -187,19 +190,30 @@ Clean architecture • MVC pattern
 
 ---
 
+## 🕰️ Developer Timeline
+
+```
+🧩 2021  → The dream begins. First serious goal set.
+⚡ 2025  → University starts. Java, SQL, Python from scratch.
+🏗️ 2026  → Real projects. Pakistani business context. Live portfolio.
+🚀 next  → Data Science. Remote work. Keep building.
+```
+
+---
+
 ## 📈 Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=m2ammar&theme=dark&background=0D1117&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&sideLabels=D4A017&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m2ammar&theme=dark&background=0D1117&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideLabels=00ffd5&dates=888888)](https://git.io/streak-stats)
 
 <br/>
 
-[![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=dark&bg_color=0D1117&title_color=D4A017&icon_color=D4A017&text_color=ffffff&border_color=D4A017)](https://github.com/m2ammar)
+[![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=dark&bg_color=0D1117&title_color=00ffd5&icon_color=00ffd5&text_color=ffffff&border_color=1f2937)](https://github.com/m2ammar)
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=D4A017&text_color=ffffff&border_color=D4A017)](https://github.com/m2ammar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=00ffd5&text_color=ffffff&border_color=1f2937)](https://github.com/m2ammar)
 
 </div>
 
@@ -220,11 +234,11 @@ I'm open to collaborating on:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=github&logoColor=white)](https://m2ammar.github.io/ammar-s_portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-D4A017?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
-[![Email](https://img.shields.io/badge/Email-D4A017?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma9731501@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-D4A017?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m__ammar11)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffd5?style=for-the-badge&logo=github&logoColor=0D1117)](https://m2ammar.github.io/ammar-s_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffd5?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-00ffd5?style=for-the-badge&logo=tableau&logoColor=0D1117)](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
+[![Email](https://img.shields.io/badge/Email-00ffd5?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:ma9731501@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-00ffd5?style=for-the-badge&logo=fiverr&logoColor=0D1117)](https://www.fiverr.com/m__ammar11)
 
 </div>
 
@@ -232,6 +246,6 @@ I'm open to collaborating on:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=100&section=footer)
 
 </div>
