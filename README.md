@@ -2,6 +2,12 @@
 <img src="https://raw.githubusercontent.com/ViratiAkiraNandhanReddy/ViratiAkiraNandhanReddy/main/gifs/1780b5d7-ae22-5fb1-9e33-764a59c83f33.gif" width="100%"/>
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFD5&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+Ammar+%F0%9F%91%8B;Exploring+Data+Science...;Building+Real+Solutions;One+Project+At+A+Time" alt="Typing SVG"/>
+</div>
+
+---
+
 
 <div align="center">
 
