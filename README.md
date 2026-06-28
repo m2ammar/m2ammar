@@ -68,7 +68,7 @@ Advanced SQL • CTEs • Window Functions
 
 `SQL` `MySQL` `Tableau`
 
-[ENTER →](https://github.com/m2ammar?tab=repositories&language=sql)
+[ENTER →](https://github.com/m2ammar/SQL-Portfolio)
 
 </td>
 
@@ -96,7 +96,7 @@ Clean architecture • MVC pattern
 
 `Java` `JavaFX` `Python`
 
-[ENTER →](https://github.com/m2ammar?tab=repositories&language=java)
+[ENTER →](https://github.com/m2ammar/Java-Portfolio)
 
 </td>
 
