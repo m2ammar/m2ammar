@@ -1,14 +1,14 @@
 <div align="center">
 
-<br/>
+<!-- 1. CAPSULE RENDER ADJUSTED TO MINIMALIST DARK RECTANGLE -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=42&fontColor=00ffd5&desc=Data%20Analyst%20•%20BI%20Developer%20•%20LLM%20Trainer&descSize=14&descAlignY=65&descColor=9ca3af)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0,13,23,100,0,176,216&height=200&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descSize=14&descAlignY=65&animation=twinkling)
 </div>
 
----
+<!-- 2. CYBERPUNK LINE DIVIDER -->
+<img src="https://raw.githubusercontent.com/HiradEmami/HiradEmami/main/assets/lines/aqua-purple-line.gif" width="100%">
 
 <div align="center">
-
 ```
 > Initializing profile...
 > Loading systems...
