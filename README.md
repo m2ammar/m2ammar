@@ -222,7 +222,7 @@ I'm open to collaborating on:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=github&logoColor=white)](https://m2ammar.github.io/ammar-s_portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ammar-saleem-50a60b2b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4A017?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
 [![Tableau](https://img.shields.io/badge/Tableau_Public-D4A017?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
 [![Email](https://img.shields.io/badge/Email-D4A017?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma9731501@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-D4A017?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/m__ammar11)
