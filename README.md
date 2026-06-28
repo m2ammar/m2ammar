@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/ViratiAkiraNandhanReddy/ViratiAkiraNandhanReddy/main/gifs/1780b5d7-ae22-5fb1-9e33-764a59c83f33.gif" width="100%"/>
 </div>
+
 
 <div align="center">
 
@@ -22,7 +21,8 @@
 
 ---
 
-## 👤 Hey There, I'm Ammar
+<h3 align="center">Hi There! I'm Ammar 👋</h3>
+<p align="center">🌟 Exploring Data Science — one real problem at a time 🌟</p>
 
 <table>
 <tr>
