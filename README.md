@@ -68,7 +68,7 @@ Advanced SQL • CTEs • Window Functions
 
 `SQL` `MySQL` `Tableau`
 
-[![ENTER →](https://github.com/m2ammar/SQL-Portfolio)](https://github.com/m2ammar/SQL-Portfolio)
+[ENTER →](https://github.com/m2ammar?tab=repositories&language=sql)
 
 </td>
 
@@ -82,7 +82,7 @@ Data storytelling through visuals
 
 `Tableau` `Data Analysis` `Visualization`
 
-[![ENTER →]([https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes])](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
+[ENTER →](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
 
 </td>
 
@@ -96,7 +96,7 @@ Clean architecture • MVC pattern
 
 `Java` `JavaFX` `Python`
 
-[![ENTER →](https://github.com/m2ammar/Java-Portfolio)](https://github.com/m2ammar/Java-Portfolio)](https://github.com/m2ammar/Java-Portfolio)
+[ENTER →](https://github.com/m2ammar?tab=repositories&language=java)
 
 </td>
 
