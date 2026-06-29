@@ -201,7 +201,7 @@ Clean architecture • MVC pattern
 
 <br/>
 
-[![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=dark&bg_color=0D1117&title_color=00ffd5&icon_color=00ffd5&text_color=ffffff&border_color=1f2937)](https://github.com/m2ammar)
+[![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m2ammar&show_icons=true&theme=dark&bg_color=0D1117&title_color=00ffd5&icon_color=00ffd5&text_color=ffffff&border_color=1f2937&cache_bypass=true)](https://github.com/m2ammar)
 
 <br/>
 
