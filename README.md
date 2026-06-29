@@ -23,7 +23,7 @@
 A **Data Analyst & BI Developer** based in Karachi, Pakistan.  
 I build databases, dashboards, and data stories that reflect real-world business problems — not just tutorial copies.
 
-Currently in my 2nd year of **BSCS Data Science** at KSBL, just completed Year 1, building my path toward advanced data science one project at a time.
+Completed Year 1 of **BSCS Data Science** at KSBL, building my path toward advanced data science one project at a time.
 
 **What I do:**
 - Design and analyze SQL databases with real Pakistani business context
