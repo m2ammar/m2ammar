@@ -205,7 +205,7 @@ Clean architecture • MVC pattern
 
 <br/>
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=00ffd5&text_color=ffffff&border_color=1f2937)](https://github.com/m2ammar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=00ffd5&text_color=ffffff&border_color=1f2937&cache_seconds=3600)](https://github.com/m2ammar)
 
 </div>
 
