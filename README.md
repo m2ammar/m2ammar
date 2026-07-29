@@ -256,7 +256,7 @@ I'm open to collaborating on:
 
 ## 🛠️ System Core Tools
 
-<table width="100%">
+<table width="150%">
   <!-- Row 1: Databases & Analytics -->
   <tr>
     <td align="center" width="25%" height="110px">
@@ -299,7 +299,7 @@ I'm open to collaborating on:
 
   <!-- Row 3: IDEs & Version Control -->
   <tr>
-    <td align="center" width="25%" height="110px">
+    <td align="center" width="60%" height="110px">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/><br/>
       <sub><b>VS Code</b></sub>
     </td>
@@ -307,11 +307,11 @@ I'm open to collaborating on:
       <img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ"/><br/><br/>
       <sub><b>IntelliJ</b></sub>
     </td>
-    <td align="center" width="25%" height="110px">
+    <td align="center" width="60%" height="110px">
       <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><br/>
       <sub><b>Git</b></sub>
     </td>
-    <td align="center" width="25%" height="110px">
+    <td align="center" width="60%" height="110px">
       <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><br/>
       <sub><b>GitHub</b></sub>
     </td>
