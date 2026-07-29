@@ -254,76 +254,111 @@ I'm open to collaborating on:
 
 <div align="center">
 
-## 🛠️ System Core Tools
+## 🛠️ SYSTEM CORE TOOLS
+`databases • languages • environment`
+
+<br/>
 
 <table width="100%">
-  <tr>
-    <td align="center">
-      <br/>
-      <table width="100%" border="0">
-        <!-- Row 1: Databases & Analytics -->
-        <tr>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=mysql" width="52" alt="MySQL"/><br/><br/>
-            <sub><b>MySQL</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=postgres" width="52" alt="SQL"/><br/><br/>
-            <sub><b>SQL</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="52" alt="Tableau Public"/><br/><br/>
-            <sub><b>Tableau Public</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://img.icons8.com/color/96/microsoft-excel.png" width="52" alt="Excel"/><br/><br/>
-            <sub><b>Excel</b></sub>
-          </td>
-        </tr>
-        
-        <!-- Row 2: Languages & Web Tech -->
-        <tr>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"/><br/><br/>
-            <sub><b>Python</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML5"/><br/><br/>
-            <sub><b>HTML5</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS3"/><br/><br/>
-            <sub><b>CSS3</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=js" width="52" alt="JavaScript"/><br/><br/>
-            <sub><b>JavaScript</b></sub>
-          </td>
-        </tr>
+<tr>
 
-        <!-- Row 3: IDEs & Version Control -->
-        <tr>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code"/><br/><br/>
-            <sub><b>VS Code</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=idea" width="52" alt="IntelliJ"/><br/><br/>
-            <sub><b>IntelliJ</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"/><br/><br/>
-            <sub><b>Git</b></sub>
-          </td>
-          <td align="center" width="25%" style="padding: 20px 0;">
-            <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><br/>
-            <sub><b>GitHub</b></sub>
-          </td>
-        </tr>
-      </table>
-      <br/>
+<!-- Column 1: Databases & Analytics -->
+<td width="33%" align="center" valign="top" style="padding: 20px 10px;">
+
+### 🗄️ DATABASES & BI
+
+<br/>
+
+<table width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="SQL"/><br/><br/>
+      <sub><b>SQL</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" alt="Tableau Public"/><br/><br/>
+      <sub><b>Tableau Public</b></sub>
+    </td>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://img.icons8.com/color/96/microsoft-excel.png" width="48" alt="Excel"/><br/><br/>
+      <sub><b>Excel</b></sub>
+    </td>
+  </tr>
+</table>
+
+</td>
+
+<!-- Column 2: Programming & Web -->
+<td width="33%" align="center" valign="top" style="padding: 20px 10px;">
+
+### 💻 LANGUAGES & WEB
+
+<br/>
+
+<table width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
+
+</td>
+
+<!-- Column 3: IDEs & Version Control -->
+<td width="33%" align="center" valign="top" style="padding: 20px 10px;">
+
+### ⚙️ ENVIRONMENT & GIT
+
+<br/>
+
+<table width="100%" border="0">
+  <tr>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ"/><br/><br/>
+      <sub><b>IntelliJ</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="50%" style="padding: 15px 0;">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
+</td>
+
+</tr>
 </table>
 
 </div>
