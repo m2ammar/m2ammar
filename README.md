@@ -251,3 +251,57 @@ I'm open to collaborating on:
 
 
 ---
+
+
+<div align="center">
+
+## 🛠️ System Core Tools
+
+<table width="100%">
+  <tr>
+    <td align="center" width="20%" height="80px">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://raw.githubusercontent.com/devedapps/dev-icons/main/icons/tableau.svg" width="48" alt="Tableau"/><br/>
+      <sub><b>Tableau</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" alt="JavaFX"/><br/>
+      <sub><b>JavaFX</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" height="80px">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filetemplate/filetemplate-original.svg" width="48" alt="Excel"/><br/>
+      <sub><b>Excel</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="20%" height="80px">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ"/><br/>
+      <sub><b>IntelliJ</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
