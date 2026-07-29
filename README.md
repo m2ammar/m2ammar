@@ -252,48 +252,47 @@ I'm open to collaborating on:
 
 ---
 
-
 <div align="center">
 
 ## 🛠️ System Core Tools
 
 <table width="100%">
-  <!-- Row 1: Core Data & Programming -->
+  <!-- Row 1: Databases & Analytics -->
   <tr>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=mysql" width="52" alt="MySQL"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/><br/>
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=postgres" width="52" alt="SQL"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="SQL"/><br/><br/>
       <sub><b>SQL</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="52" alt="Tableau"/><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" alt="Tableau Public"/><br/><br/>
       <sub><b>Tableau Public</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filetemplate/filetemplate-original.svg" width="52" alt="Excel"/><br/><br/>
+      <img src="https://img.icons8.com/color/96/microsoft-excel.png" width="48" alt="Excel"/><br/><br/>
       <sub><b>Excel</b></sub>
     </td>
   </tr>
-  
+
   <!-- Row 2: Languages & Web Tech -->
   <tr>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/><br/>
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML5"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br/><br/>
       <sub><b>HTML5</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS3"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br/><br/>
       <sub><b>CSS3</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=js" width="52" alt="JavaScript"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/><br/>
       <sub><b>JavaScript</b></sub>
     </td>
   </tr>
@@ -301,19 +300,19 @@ I'm open to collaborating on:
   <!-- Row 3: IDEs & Version Control -->
   <tr>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/><br/>
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=idea" width="52" alt="IntelliJ"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ"/><br/><br/>
       <sub><b>IntelliJ</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><br/>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="25%" height="110px">
-      <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><br/>
       <sub><b>GitHub</b></sub>
     </td>
   </tr>
