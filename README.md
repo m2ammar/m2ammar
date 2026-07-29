@@ -248,3 +248,39 @@ I'm open to collaborating on:
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=100&section=footer)
 
 </div>
+
+
+---
+
+<div align="center">
+
+## ⚡ FEATURED SYSTEM DEPLOYMENTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare Analytics Database
+> **SQL • Database Normalization • Tableau**
+
+- Engineed normalized SQL database for operational analytics.
+- Built interactive multi-page executive dashboards for key performance tracking.
+
+[📁 View SQL Code](https://github.com/m2ammar/SQL-Portfolio) • [📊 Live Dashboard](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Financial Services Analytics
+> **MySQL • CTEs • Executive Reporting**
+
+- Developed complex transactional schema with thousands of records.
+- Formulated advanced window functions to calculate growth metrics and revenue trends.
+
+[📁 View SQL Code](https://github.com/m2ammar/SQL-Portfolio) • [📊 Live Visuals](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
+
+</td>
+</tr>
+</table>
+
+</div>
