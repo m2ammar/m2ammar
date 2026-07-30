@@ -272,22 +272,27 @@ I'm open to collaborating on:
   </tr>
 </table>
 
-<table border="1" frame="box" rules="none" cellpadding="20" cellspacing="0" align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-JavaFX-black?style=flat-square&logo=openjfx&logoColor=white"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/></td>
-  </tr>
+<table align="center" cellpadding="20">
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=py" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openjfx/FFFFFF" width="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="48"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" width="48"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="40"/>
+
+</td>
+</tr>
 </table>
