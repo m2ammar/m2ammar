@@ -267,7 +267,7 @@ I'm open to collaborating on:
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="32"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="32"/></td>
   </tr>
 </table>
