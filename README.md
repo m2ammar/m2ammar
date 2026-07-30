@@ -205,7 +205,7 @@ Clean architecture • MVC pattern
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m2ammar&theme=dark&background=0D1117&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideLabels=00ffd5&dates=888888)
+![GitHub Streak](https://streak-stats.demolab.com/?user=m2ammar&theme=dark&background=0D1117&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideLabels=00ffd5&dates=888888)
 
 <br/>
 
