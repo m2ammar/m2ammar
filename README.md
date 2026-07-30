@@ -267,32 +267,7 @@ I'm open to collaborating on:
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/-%20-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="48"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/-%20-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="48"/></td>
   </tr>
-</table>
-
-<table align="center" cellpadding="20">
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=py" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openjfx/FFFFFF" width="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="48"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=idea" width="48"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="40"/>
-
-</td>
-</tr>
 </table>
