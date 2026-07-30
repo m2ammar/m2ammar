@@ -362,3 +362,9 @@ I'm open to collaborating on:
 </table>
 
 </div>
+![My Skills](https://skillicons.dev/icons?i=mysql,tableau,py,java,javascript,html,css,vscode,idea,git,github)
+
+![My Skills](https://skillicons.dev/icons?i=mysql,tableau,py,java,javascript,html,css,git,github,vscode,idea)
+
+![My Skills](https://skillicons.dev/icons?i=mysql,py,java,js,html,css,git,github,vscode,idea&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,java,js,html,css,git,github,vscode,idea&theme=dark)](https://skillicons.dev)
