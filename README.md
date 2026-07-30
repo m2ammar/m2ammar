@@ -152,16 +152,24 @@ Clean architecture • MVC pattern
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-00ffd5?style=for-the-badge&logo=mysql&logoColor=0D1117)
-![Tableau](https://img.shields.io/badge/Tableau-00ffd5?style=for-the-badge&logo=tableau&logoColor=0D1117)
-![Python](https://img.shields.io/badge/Python-00ffd5?style=for-the-badge&logo=python&logoColor=0D1117)
-![Java](https://img.shields.io/badge/Java-00ffd5?style=for-the-badge&logo=openjdk&logoColor=0D1117)
-![JavaFX](https://img.shields.io/badge/JavaFX-00ffd5?style=for-the-badge&logo=openjdk&logoColor=0D1117)
-![Excel](https://img.shields.io/badge/Excel-00ffd5?style=for-the-badge&logo=microsoft-excel&logoColor=0D1117)
-![Git](https://img.shields.io/badge/Git-00ffd5?style=for-the-badge&logo=git&logoColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-00ffd5?style=for-the-badge&logo=github&logoColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS_Code-00ffd5?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-00ffd5?style=for-the-badge&logo=intellij-idea&logoColor=0D1117)
+<table align="center" width="700">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="48" height="48"/></td>
+    <td align="center" width="96"><img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="48" height="48"/></td>
+  </tr>
+</table>
 
 </div>
 
@@ -197,7 +205,7 @@ Clean architecture • MVC pattern
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=m2ammar&theme=dark&background=0D1117&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideLabels=00ffd5&dates=888888&v=3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m2ammar&theme=dark&background=0D1117&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideLabels=00ffd5&dates=888888)
 
 <br/>
 
@@ -251,23 +259,3 @@ I'm open to collaborating on:
 
 
 ---
-
-
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="48" height="48"/></td>
-    <td align="center" width="96"><img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="48" height="48"/></td>
-  </tr>
-</table>
