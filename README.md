@@ -252,119 +252,28 @@ I'm open to collaborating on:
 
 ---
 
-<div align="center">
 
-## 🛠️ SYSTEM CORE TOOLS
-`databases • languages • environment`
-
-<br/>
-
-<table width="100%">
-<tr>
-
-<!-- Column 1: Databases & Analytics -->
-<td width="33%" align="center" valign="top" style="padding: 20px 10px;">
-
-### 🗄️ DATABASES & BI
-
-<br/>
-
-<table width="100%" border="0">
+<table>
   <tr>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="SQL"/><br/><br/>
-      <sub><b>SQL</b></sub>
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
   </tr>
   <tr>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48" alt="Tableau Public"/><br/><br/>
-      <sub><b>Tableau Public</b></sub>
-    </td>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://img.icons8.com/color/96/microsoft-excel.png" width="48" alt="Excel"/><br/><br/>
-      <sub><b>Excel</b></sub>
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /></td>
   </tr>
 </table>
 
-</td>
-
-<!-- Column 2: Programming & Web -->
-<td width="33%" align="center" valign="top" style="padding: 20px 10px;">
-
-### 💻 LANGUAGES & WEB
-
-<br/>
-
-<table width="100%" border="0">
-  <tr>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-  </tr>
-</table>
-
-</td>
-
-<!-- Column 3: IDEs & Version Control -->
-<td width="33%" align="center" valign="top" style="padding: 20px 10px;">
-
-### ⚙️ ENVIRONMENT & GIT
-
-<br/>
-
-<table width="100%" border="0">
-  <tr>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" alt="IntelliJ"/><br/><br/>
-      <sub><b>IntelliJ</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="50%" style="padding: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-![My Skills](https://skillicons.dev/icons?i=mysql,tableau,py,java,javascript,html,css,vscode,idea,git,github)
-
-![My Skills](https://skillicons.dev/icons?i=mysql,tableau,py,java,javascript,html,css,git,github,vscode,idea)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=for-the-badge&logo=openjfx&logoColor=white)
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,py,java,js,html,css,git,github,vscode,idea&theme=dark)
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,java,js,html,css,git,github,vscode,idea&theme=dark)](https://skillicons.dev)
