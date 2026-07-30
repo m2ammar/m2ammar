@@ -196,3 +196,71 @@ Clean architecture • MVC pattern
 ---
 
 ## 🕰️ Developer Timeline
+
+🧩 2021 → The dream begins. First serious goal set.
+⚡ 2025 → University starts. Java, SQL, Python from scratch.
+🏗️ 2026 → Real projects. Pakistani business context. Live portfolio.
+🚀 next → Data Science. Remote work. Keep building.
+
+
+---
+
+## 📈 Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=m2ammar&theme=dark&background=0D1117&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideLabels=00ffd5&dates=888888)
+
+<br/>
+
+[![Ammar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=github-dark-high-contrast&bg_color=0D1117&color=00ffd5&line=00ffd5&point=ffffff&area=true&hide_border=false)](https://github.com/m2ammar)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=00ffd5&text_color=ffffff&border_color=1f2937)](https://github.com/m2ammar)
+
+</div>
+
+---
+
+## 🤝 Collaboration
+
+<div align="center">
+
+I'm open to collaborating on:
+
+- SQL database design projects
+- Tableau dashboard builds
+- Data analysis with Pakistani business context
+- LLM evaluation and training tasks
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ffd5?style=for-the-badge&logo=github&logoColor=0D1117)](https://m2ammar.github.io/ammar-s_portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffd5?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-00ffd5?style=for-the-badge&logo=tableau&logoColor=0D1117)](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
+[![Email](https://img.shields.io/badge/Email-00ffd5?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:ma9731501@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-00ffd5?style=for-the-badge&logo=fiverr&logoColor=0D1117)](https://www.fiverr.com/m__ammar11)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=m2ammar&color=00ffd5&style=for-the-badge)
+
+</div>
+
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=100&section=footer)
+
+</div>
