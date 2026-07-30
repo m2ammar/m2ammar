@@ -1,5 +1,7 @@
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/ViratiAkiraNandhanReddy/ViratiAkiraNandhanReddy/main/gifs/1780b5d7-ae22-5fb1-9e33-764a59c83f33.gif" width="100%"/>
+
 </div>
 
 
@@ -11,16 +13,18 @@
 
 
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFD5&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+Ammar+%F0%9F%91%8B;Exploring+Data+Science...;Building+Real+Solutions;One+Project+At+A+Time" alt="Typing SVG"/>
+
 </div>
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td width="60%">
 
-A **Data Analyst & BI Developer** based in Karachi, Pakistan.  
+A **Data Analyst & BI Developer** based in Karachi, Pakistan.
 I build databases, dashboards, and data stories that reflect real-world business problems — not just tutorial copies.
 
 Completed Year 1 of **BSCS Data Science** at KSBL, building my path toward advanced data science one project at a time.
@@ -49,7 +53,7 @@ Completed Year 1 of **BSCS Data Science** at KSBL, building my path toward advan
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="33%">
@@ -57,7 +61,7 @@ Completed Year 1 of **BSCS Data Science** at KSBL, building my path toward advan
 ### 🗄️ DATA FORGE
 **SQL & Database Projects**
 
-Pakistani business simulations  
+Pakistani business simulations
 Advanced SQL • CTEs • Window Functions
 
 `SQL` `MySQL` `Tableau`
@@ -71,7 +75,7 @@ Advanced SQL • CTEs • Window Functions
 ### 📊 BI STUDIO
 **Business Intelligence & Dashboards**
 
-Executive dashboards • KPI tracking  
+Executive dashboards • KPI tracking
 Data storytelling through visuals
 
 `Tableau` `Data Analysis` `Visualization`
@@ -85,7 +89,7 @@ Data storytelling through visuals
 ### 💻 CODE BASE
 **Java & Python Projects**
 
-OOP systems • Desktop applications  
+OOP systems • Desktop applications
 Clean architecture • MVC pattern
 
 `Java` `JavaFX` `Python`
@@ -108,7 +112,7 @@ Clean architecture • MVC pattern
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
 
 <td width="33%" align="left">
@@ -153,22 +157,22 @@ Clean architecture • MVC pattern
 <div align="center">
 
 <table align="center" width="700">
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="48" height="48"/></td>
-    <td align="center" width="96"><img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="48" height="48"/></td>
-  </tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
+<td align="center" width="96"><img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="48" height="48"/></td>
+<td align="center" width="96"><img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="48" height="48"/></td>
+</tr>
 </table>
 
 </div>
@@ -179,83 +183,16 @@ Clean architecture • MVC pattern
 
 <div align="center">
 
-| Domain | Tools | Level |
-|--------|-------|-------|
-| SQL & Databases | MySQL, Joins, CTEs, Window Functions | Intermediate → Advanced |
-| Business Intelligence | Tableau, KPI Design, Dashboards | Intermediate |
-| Programming | Java, OOP, JavaFX | Intermediate |
-| Python | Variables, OOP, File I/O | Learning |
+<table align="center">
+<tr><th>Domain</th><th>Tools</th><th>Level</th></tr>
+<tr><td>SQL & Databases</td><td>MySQL, Joins, CTEs, Window Functions</td><td>Intermediate → Advanced</td></tr>
+<tr><td>Business Intelligence</td><td>Tableau, KPI Design, Dashboards</td><td>Intermediate</td></tr>
+<tr><td>Programming</td><td>Java, OOP, JavaFX</td><td>Intermediate</td></tr>
+<tr><td>Python</td><td>Variables, OOP, File I/O</td><td>Learning</td></tr>
+</table>
 
 </div>
 
 ---
 
 ## 🕰️ Developer Timeline
-
-```
-🧩 2021  → The dream begins. First serious goal set.
-⚡ 2025  → University starts. Java, SQL, Python from scratch.
-🏗️ 2026  → Real projects. Pakistani business context. Live portfolio.
-🚀 next  → Data Science. Remote work. Keep building.
-```
-
----
-
-## 📈 Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=m2ammar&theme=dark&background=0D1117&ring=00ffd5&fire=00ffd5&currStreakLabel=00ffd5&sideLabels=00ffd5&dates=888888)
-
-<br/>
-
-[![Ammar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=github-dark-high-contrast&bg_color=0D1117&color=00ffd5&line=00ffd5&point=ffffff&area=true&hide_border=false)](https://github.com/m2ammar)
-
-<br/>
-
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=00ffd5&text_color=ffffff&border_color=1f2937)](https://github.com/m2ammar)
-
-</div>
-
----
-
-## 🤝 Collaboration
-
-I'm open to collaborating on:
-
-- SQL database design projects
-- Tableau dashboard builds
-- Data analysis with Pakistani business context
-- LLM evaluation and training tasks
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ffd5?style=for-the-badge&logo=github&logoColor=0D1117)](https://m2ammar.github.io/ammar-s_portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffd5?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/muhammad-ammar-b533a0323/)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-00ffd5?style=for-the-badge&logo=tableau&logoColor=0D1117)](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes)
-[![Email](https://img.shields.io/badge/Email-00ffd5?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:ma9731501@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-00ffd5?style=for-the-badge&logo=fiverr&logoColor=0D1117)](https://www.fiverr.com/m__ammar11)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=m2ammar&color=00ffd5&style=for-the-badge)
-
-</div>
-
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=100&section=footer)
-
-</div>
-
-
----
