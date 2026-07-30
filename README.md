@@ -272,8 +272,22 @@ I'm open to collaborating on:
   </tr>
 </table>
 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=for-the-badge&logo=openjfx&logoColor=white)
-
-![My Skills](https://skillicons.dev/icons?i=mysql,py,java,js,html,css,git,github,vscode,idea&theme=dark)
+<table border="1" frame="box" rules="none" cellpadding="20" cellspacing="0" align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-JavaFX-black?style=flat-square&logo=openjfx&logoColor=white"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="48"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/></td>
+  </tr>
+</table>
