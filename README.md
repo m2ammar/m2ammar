@@ -283,3 +283,13 @@ I'm open to collaborating on:
 ![Profile Views](https://komarev.com/ghpvc/?username=m2ammar&color=00ffd5&style=for-the-badge)
 
 </div>
+
+<div align="center"> ![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=100&section=footer)
+  
+</div>
+
+--- 
+
+
+
+
