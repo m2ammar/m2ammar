@@ -205,8 +205,8 @@ Clean architecture • MVC pattern
 
 <br/>
 
-🎖️ <a href="https://verify.skilljar.com/c/gt6fvvfmpmka" target="_blank" rel="noopener noreferrer"><strong>AI Fluency: Framework & Foundations</strong></a> — Anthropic
-[![Indus Hospital](https://img.shields.io/badge/IT_Internship-Indus_Hospital-00ffd5?style=for-the-badge&logo=googledocs&logoColor=0D1117)](YOUR_VERIFICATION_LINK_HERE)
+[![Anthropic](https://img.shields.io/badge/AI_Fluency-Anthropic-00ffd5?style=for-the-badge)](/assets/anthropic-ai-fluency.pdf)
+[![Indus Hospital](https://img.shields.io/badge/IT_Internship-Indus_Hospital-00ffd5?style=for-the-badge&logo=googledocs&logoColor=0D1117)](./assets/indus-hospital-certificate.png)
 
 </div>
 
