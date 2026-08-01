@@ -200,6 +200,20 @@ Clean architecture • MVC pattern
 
 <div align="center">
 
+## 🎖️ CREDENTIALS
+`verified certifications • proof of work`
+
+<br/>
+
+[![Anthropic](https://img.shields.io/badge/AI_Fluency-Anthropic-00ffd5?style=for-the-badge&logo=anthropic&logoColor=0D1117)](YOUR_VERIFICATION_LINK_HERE)
+[![Indus Hospital](https://img.shields.io/badge/IT_Internship-Indus_Hospital-00ffd5?style=for-the-badge&logo=googledocs&logoColor=0D1117)](YOUR_VERIFICATION_LINK_HERE)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🕰️ Developer Timeline
 
 </div>
