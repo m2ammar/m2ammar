@@ -205,7 +205,7 @@ Clean architecture • MVC pattern
 
 <br/>
 
-[![Anthropic](https://img.shields.io/badge/AI_Fluency-Anthropic-00ffd5?style=for-the-badge)](/assets/Certificate_Ai_Fluency.pdf)
+[![Anthropic](https://img.shields.io/badge/AI_Fluency-Anthropic-00ffd5?style=for-the-badge)](/assets/Certificate_AI_Fluency.pdf)
 [![Indus Hospital](https://img.shields.io/badge/IT_Internship-Indus_Hospital-00ffd5?style=for-the-badge&logo=googledocs&logoColor=0D1117)](./assets/indus-hospital-certificate.png)
 
 </div>
