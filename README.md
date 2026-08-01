@@ -293,3 +293,61 @@ I'm open to collaborating on:
 
 
 ---
+
+ ### 📜 CERTIFICATE_LOGS
+
+`[VERIFIED]` **Anthropic** → [AI Fluency: Framework & Foundations](./assets/anthropic-ai-fluency.pdf)
+`[VERIFIED]` **Indus Hospital** → [Operations Intelligence & Systems](./assets/indus-internship-certificate.png)
+
+
+
+<details>
+<summary><b>🎖️ Anthropic</b> — AI Fluency: Framework & Foundations</summary>
+<br>
+<img src="./assets/anthropic-ai-fluency.png" alt="Anthropic Certificate" width="100%" />
+</details>
+
+<details>
+  <summary><b style="color: #00ffd5;">🎖️ Anthropic</b> — AI Fluency: Framework & Foundations</summary>
+  <br>
+  <img src="./assets/anthropic-ai-fluency.png" alt="Anthropic Certificate" width="100%" style="border: 1px solid #00ffd5; border-radius: 6px;" />
+</details>
+
+<details>
+  <summary><b style="color: #00ffd5;">🎖️ Indus Hospital</b> — IT Operations Internship (40 Hours)</summary>
+  <br>
+  <img src="./assets/indus-internship.png" alt="Indus Hospital Certificate" width="100%" style="border: 1px solid #00ffd5; border-radius: 6px;" />
+</details>
+
+---
+
+## Pattern 2: Styled HTML Grid Cards
+*(Matches your `SYSTEM ACCESS` 3-Column Card Layout)*
+
+If you want your certifications to look identical to your **DATA FORGE**, **BI STUDIO**, and **CODE BASE** cards, use an HTML table layout with high-contrast cyan links:
+
+```html
+<table width="100%" style="background-color: #0d1117; border: 1px solid #30363d;">
+  <tr>
+    <td width="50%" align="center" style="padding: 15px;">
+      <br />
+      <h3>🤖 ANTHROPIC</h3>
+      <p><b>AI Fluency: Framework & Foundations</b></p>
+      <p><sub style="color: #8b949e;">Prompting • LLM Architecture • AI Workflows</sub></p>
+      <a href="./assets/anthropic-ai-fluency.pdf" target="_blank">
+        <b style="color: #00ffd5;">VERIFY CREDENTIAL →</b>
+      </a>
+      <br /><br />
+    </td>
+    <td width="50%" align="center" style="padding: 15px;">
+      <br />
+      <h3>🏥 INDUS HOSPITAL</h3>
+      <p><b>Operations Intelligence Platform</b></p>
+      <p><sub style="color: #8b949e;">40-Hour IT Internship • Database Design</sub></p>
+      <a href="./assets/indus-internship.pdf" target="_blank">
+        <b style="color: #00ffd5;">VERIFY CREDENTIAL →</b>
+      </a>
+      <br /><br />
+    </td>
+  </tr>
+</table>
