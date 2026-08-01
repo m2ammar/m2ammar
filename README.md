@@ -284,7 +284,9 @@ I'm open to collaborating on:
 
 </div>
 
-<div align="center"> ![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=100&section=footer)
+<div align="center"> 
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00ffd5&height=100&section=footer)
   
 </div>
 
