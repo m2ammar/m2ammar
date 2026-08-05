@@ -4,12 +4,11 @@
 
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=42&fontColor=00ffd5&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descSize=14&descAlignY=65&descColor=9ca3af">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=F6F8FA&height=180&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=42&fontColor=0D1117&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descSize=14&descAlignY=65&descColor=57606a">
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=42&fontColor=00ffd5&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descSize=14&descAlignY=65&descColor=9ca3af">
-</picture>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Muhammad%20Ammar%20Saleem&fontSize=42&fontColor=00ffd5&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20LLM%20Trainer&descSize=14&descAlignY=65&descColor=9ca3af)
+
 </div>
+
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFD5&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+Ammar+%F0%9F%91%8B;Exploring+Data+Science...;Building+Real+Solutions;One+Project+At+A+Time" alt="Typing SVG"/>
