@@ -239,7 +239,7 @@ Clean architecture • MVC pattern
 
 <br/>
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=m2ammar&theme=github-dark" />](https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=github-dark-high-contrast&v=2)
+[![Ammar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m2ammar&theme=github-dark-high-contrast&bg_color=0D1117&color=00ffd5&line=00ffd5&point=ffffff&area=true&hide_border=false)](https://github.com/m2ammar)
 <br/>
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m2ammar&layout=compact&theme=dark&bg_color=0D1117&title_color=00ffd5&text_color=ffffff&border_color=1f2937)](https://github.com/m2ammar)
